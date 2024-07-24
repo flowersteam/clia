@@ -1,6 +1,6 @@
 # Site web du livre "C'est (pas) moi, c'est l'IA!" (Nathan)
 
-https://site.nathan.fr/livres/cest-pas-moi-cest-lia-pour-apprivoiser-lia-sans-tomber-dans-ses-pieges-des-10-ans-9782095035433.html#read-more
+https://site.nathan.fr/livres/cest-pas-moi-cest-lia-pour-apprivoiser-lia-sans-tomber-dans-ses-pieges-des-10-ans-9782095035433.html
 
 Texte: Didier Roy et Pierre-Yves Oudeyer  
 Illustrations: Clémentine Latron
