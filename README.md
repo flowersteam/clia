@@ -66,28 +66,28 @@ Plus de ressources : https://www.cnil.fr/fr/intelligence-artificielle/quelques-r
 
 La liste de liens ci-dessous, plus spécifique à chaque chapitre, est restreinte aux liens qui ont retenu notre intérêt à être diffusés, il y en a d’autres, notamment donnés à l’intérieur des contenus référencés eux-mêmes. Certaines références pointent vers des contenus en anglais, une occasion de travailler une langue étrangère ou de demander à l’IAGen de t’aider à traduire 🙂  
 
-### CH1
+### L’IA, EN VRAI, C’EST QUOI ?
 L’IA, hier, aujourd’hui et demain : https://interstices.info/lintelligence-artificielle-hier-aujourdhuiet-demain    
 🇬🇧 Le robot electric dog : https://www.blackgate.com/2018/10/09/seleno-the-electric-dog/  
 Le logiciel SHRDLU : https://fr.wikipedia.org/wiki/SHRDLU   
 Le logiciel Pl@ntnet : https://plantnet.org/      
 
-### CH2
+### L’IAGEN, COMMENT ON S’EN SERT ?
 Le prompting : https://www.youtube.com/watch?v=8IQ9i_QoA3A (Inria Flowers)  
 \* Prompting avancé : https://www.youtube.com/watch?v=uLMqTPmvqPw   
 \* Faire manipuler des outils (e.g. logiciel de maths) à ChatGPT : https://www.youtube.com/watch?v=gUn79szTWw0    
 
-### CH3
+### CHATGPT A-T-IL UN CERVEAU ?
 Comment fonctionne ChatGPT ? https://www.youtube.com/watch?v=K8gOvC8gvB4  (Inria Flowers)  
 Les forces des modèles de langage : https://www.youtube.com/watch?v=5HVR3cVFot4   
 🇬🇧 Les résultats d’une compétition des meilleurs chatbots (prix du public !): https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard   
 
-### CH4
+### TROP FACILES, LES DEVOIRS, AVEC L’IA !
 Recommandations de l’Unesco pour un usage de l’IA générative dans l’éducation centrée sur l’humain: https://unesdoc.unesco.org/ark:/48223/pf0000389901   
 🇬🇧 \** Etude école de commerce : Hill, Brian, Taking the help or going alone : ChatGPT and class assignments (March 31, 2023). HEC Paris : https://ssrn.com/abstract=4465833   
 🇬🇧\** Etude scientifique sur la manière de stimuler la curiosité chez les enfants : Abdelghani, R. et al. (2023) Gpt-3-driven pedagogical agents to train children’s curious question-asking skills.   International Journal of Artificial Intelligence in Education : https://arxiv.org/abs/2211.14228 (Inria Flowers)  
 
-### CH 5
+### L’IA, ON S’EN SERT POUR QUOI ?
 Inria Flowers, IAGen : quelles applications concrètes ? : https://www.youtube.com/watch?v=E2hPk3adUlI   
 🇬🇧 Annuaire de logiciels d'IAGen : https://www.gpttool.ai/    
 Aide à l'orientation : https://hello-charly.com/    
@@ -100,7 +100,7 @@ Création artistiques et IA : https://www.arte.tv/fr/videos/110342-003-A/le-dess
 Créer des jeux vidéo : https://www.lebigdata.fr/google-deepmind-genie-ia-jeux-video   
 Jouer à des jeux vidéo : https://www.lebigdata.fr/deepmind-sima-ia-jeux-video   
 
-### CH 6
+### ALORS LÀ, J’HALLUCINE !
 Les faiblesses des modèles de langage : https://www.youtube.com/watch?v=xXHWTC4mJBM (Inria Flowers)  
 Génération de vidéo deepfakes et manipulations : ​​https://www.youtube.com/watch?v=LVg4yIS7UjA (Le dessous des images, Arte TV)  
 Comment faire écrire n’importe quoi à ChatGPT ? https://www.youtube.com/watch?v=R2fjRbc9Sa0 (Monsieur Phi)  
@@ -109,7 +109,7 @@ Biais de la vérité illusoire et fake news : https://www.youtube.com/watch?v=Vg
 🇬🇧\* Exemples de la manière dont les IAGen amplifient les stéréotypes dans la génération d’image :   
 https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/ (en anglais)  
 
-### CH 7
+### L’IA ET LA PLANÈTE : ÇA CHAUFFE ?
 Quantité de données et consommation des services numériques dans le monde : https://lejournal.cnrs.fr/articles/penser-des-datacenters-moins-energivores   
 Calculateur de coût énergétique et environnemental: 🇬🇧https://calculator.green-algorithms.org/   
 \* Consommation électrique : https://balises.bpi.fr/les-data-centers-13-de-la-consommation-energetique-mondiale-en-2030/  
@@ -120,7 +120,7 @@ Consommation d’eau : https://www.geo.fr/environnement/eau-ia-generative-a-t-el
 🇬🇧\* Li, Pengfei, et al. Making AI less thirsty Uncovering and addressing the secret water footprint of AI models. https://arxiv.org/pdf/2304.03271   
 Comment l’IA peut aider à résoudre les défis environnementaux : https://www.youtube.com/watch?v=eh56oSanAoI (Science4All)  
 
-### CH 8
+### L’IA, PLUS FORTE QUE LES HUMAINS ?
 Plusieurs scientifiques discutent des défis pour mettre au point des IA avec une intelligence humaine, et des dangers de la stupidité artificielle ! https://www.youtube.com/watch?v=HyoABbailQQ   
 🇬🇧 Hugging Face, le site web pour télécharger des milliers d’IAgen open-source ! https://huggingface.co/   
 Le projet BLOOM et le supercalculateur français Jean Zay : https://www.cnrs.fr/fr/actualite/la-recherche-francaise-moteur-dun-nouveau-modele-dia    
@@ -130,6 +130,7 @@ Spéculations (parfois farfelues) sur le futur de l'IA : https://www.lebigdata.f
 Quelles études pour travailler dans l’IA ? : https://www.etudes-intelligence-artificielle.com/   
 IA et évolution des métiers et de l’emploi : https://www.youtube.com/watch?v=fZkQzLDTDuM (Arte TV)  
 25 recommandations pour l'IA en France par la commission de l’IA (2024)  https://eduscol.education.fr/sti/actualites/25-recommandations-pour-lintelligence-artificielle-en-france   
+
 
 
 
