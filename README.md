@@ -1,4 +1,5 @@
 # Site web du livre "C'est (pas) moi, c'est l'IA!" (Nathan)
+Didier Roy et Pierre-Yves Oudeyer
 
 \*  : un peu plus difficile d’accès  
 \**  : encore plus difficile d’accès  
