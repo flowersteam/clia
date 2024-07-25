@@ -80,7 +80,7 @@ FILMS, DESSINS ANIMÉS ET SÉRIES :
 - Don Hall, Chris Williams (II), Les nouveaux héros, 2015
 - Rupert Sanders, Ghost in the Shell, 2017
   
-FILMS, DESSINS ANIMÉS ET SÉRIES :ROMANS
+ROMANS
 - Isaac Asimov, Les Robots, édition française, OPTA, 1967
 - Antoine Bello, Ada, édition originale, Gallimard, 2016
 - \* William Gibson, Neuromancien, édition française, Ace Books, 1984  
