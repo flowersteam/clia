@@ -66,6 +66,7 @@ https://huggingface.co/spaces/lmsys/chatbotarena-
 leaderboard 
 
 ### Films et livres
+
 FILMS, DESSINS ANIMÉS ET SÉRIES :
 - Andrew Stanton, Wall-E, 2008
 - \* Stanley Kubrick, 2001: l’odyssée de l’espace, 1968
@@ -78,10 +79,12 @@ FILMS, DESSINS ANIMÉS ET SÉRIES :
 - \* Stefan Baron, Henrik Widman, Real Humans, 2012
 - Don Hall, Chris Williams (II), Les nouveaux héros, 2015
 - Rupert Sanders, Ghost in the Shell, 2017
-ROMANS
+  
+FILMS, DESSINS ANIMÉS ET SÉRIES :ROMANS
 - Isaac Asimov, Les Robots, édition française, OPTA, 1967
 - Antoine Bello, Ada, édition originale, Gallimard, 2016
 - \* William Gibson, Neuromancien, édition française, Ace Books, 1984  
+
 BD
 - Mathieu Bablet, Carbone & Silicium, édition originale, Ankama, 2020
 - Jean-Noël Lafargue et Marion Montaigne, L’intelligence artificielle, fantasmes et réalités, édition originale, Le Lombard, 2016
